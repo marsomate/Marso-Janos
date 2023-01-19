@@ -41,25 +41,31 @@ p{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: auto 180vh;
-    padding:3%;
+    padding: 3%;
     margin: 0;
 }
 .profile-picture{
-    padding:10%;
+    padding:15%;
     padding-bottom: 3%;
     width: 300px;
 }
 .telephone{
     width: 300px;
-    padding-left: 10%;
+    padding-left: 15%;
+    margin: 0;
+}
+.first-side{
+    margin: 0;
+    padding:0%;
 }
 .intro{
-    padding-top:10%;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding:15% 3%;
+    margin: 0;
+    text-align: center;
 }
 .bio{
     padding: 5%;
+    width: 100%;
 }
 .second-container{
     background-image: url("../images/background2.png");
