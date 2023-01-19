@@ -1,0 +1,185 @@
+h1{
+    font-family: 'Merriweather';
+    font-size: 4rem;
+    line-height: 1.5;
+}
+h2{
+    font-family: 'Merriweather';
+    font-size: 2rem;
+    line-height: 1.5;
+
+}
+h3{
+    font-family: 'Merriweather';
+    font-size: 2rem;
+    line-height: 1.5;
+    padding:2%;
+    font-weight: bold;
+}
+h4{
+    font-family: 'Merriweather';
+    font-size: 2rem;
+    line-height: 1.5;
+    color:white
+
+}
+p{
+    font-size: 2rem;
+    font-family: 'Ubuntu';
+    line-height: 1.5;
+}
+.white-{
+    color: white;
+
+}
+.navbar{
+    background-color: #393c3d;
+}
+.toggler{
+    color: rgb(255, 255, 255);
+}
+.navbar-brand{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.nav-link{
+    color: #ffffff;
+font-size: 1.5rem;
+}
+.first-container{
+    background-image: url('https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?size=626&ext=jpg&ga=GA1.1.1747650800.1673881807&semt=sph');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin:0;
+    position: relative;
+}
+.profile-picture{
+    width: 300px;
+    height: auto;
+    margin: 10% 10%;
+}
+.intro-1{
+    padding: 5%;
+}
+.robot-picture{
+    width: 300px;
+    position: absolute;
+    bottom: 5%;
+    right: 20%;
+}
+.robot-picture-hidden{
+    width: 300px;
+    position: relative;
+    bottom: 0;
+    right: 20%;
+    visibility: hidden;
+}
+#second{
+    background-image: url('https://img.freepik.com/free-photo/beautiful-milky-way-night-sky_53876-139825.jpg?w=1380&t=st=1673888040~exp=1673888640~hmac=74bcd36b561bc002e48d8b057e551519e4ed6f8790f032a4232a74b2e56ac067');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    padding : 5% 5%;
+
+}
+.hobbies{
+    padding: 10%;
+}
+.bio{
+    padding: 2%;
+    text-align: center;
+    display: block;
+}
+.skill-elements{
+    padding-top: 3%;
+    text-decoration: underline;
+}
+
+.third-container{
+    background-image: url('https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?size=626&ext=jpg&ga=GA1.1.1747650800.1673881807&semt=sph');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    text-align: center;
+    padding: 5%;
+}
+.testimonial-text{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    padding: 5%;
+    font-size: 1.2rem;
+    color: white;
+}
+.carousel-1{
+    height: 300px;
+}
+.support{
+    text-align: center;
+    background-image: url('https://img.freepik.com/free-photo/beautiful-milky-way-night-sky_53876-139825.jpg?w=1380&t=st=1673888040~exp=1673888640~hmac=74bcd36b561bc002e48d8b057e551519e4ed6f8790f032a4232a74b2e56ac067');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    padding: 5%;
+    padding-bottom: 2%;
+    position: relative;
+}
+.tihany{
+    text-align: center;
+    position: relative;
+
+}
+.tihany-picture{
+    width: 25%;
+    display: block;
+    position: relative;
+    margin: auto;
+    bottom:20%;
+}
+.tihany-picture-hidden{
+    width: 200px;  
+    visibility: hidden;  
+}
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%; 
+    height: 0;
+  }
+  .iframe-container iframe{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+.end{
+    background-image: url('https://img.freepik.com/free-photo/white-painted-wall-texture-background_53876-138197.jpg?size=626&ext=jpg&ga=GA1.1.1747650800.1673881807&semt=sph');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+    padding: 1%;
+    text-align: center;
+}
+.copy{
+    padding:1%;
+    font-size: 1rem;
+    color: white;
+}
+@media (max-width: 1024px) {
+    .robot-picture{
+        width: 300px;
+        position: absolute;
+        bottom: 0;
+        right: 20%;
+        visibility: hidden;
+    }
+    .robot-picture-hidden{
+        width: 300px;
+        position: absolute;
+        bottom: 0;
+        right: 20%;
+        visibility: hidden;
+    }
+}
