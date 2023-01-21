@@ -190,13 +190,17 @@ p{
 }
 @media (max-width: 1024px) {
     .profile-picture{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
         padding:10%;
         padding-bottom: 3%;
-        width: 300px;
+        width: 90%;
     }
     .telephone{
         width: 300px;
         padding-left: 10%;
+        text-align: center;
     }
     .compositions-text{
         text-align: center;
