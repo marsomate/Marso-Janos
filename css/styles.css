@@ -129,6 +129,17 @@ p{
     padding: 1%;
     text-align: center;
 }
+.compositions{
+    background-image: url("../images/background1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto 180vh;
+}
+.compositions-header{
+    text-align: center;
+    padding: 3%;
+    padding-bottom: 0;
+}
 @media (max-width: 1024px) {
     .profile-picture{
         padding:10%;
