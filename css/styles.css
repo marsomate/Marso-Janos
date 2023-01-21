@@ -94,6 +94,10 @@ p{
     width: 100%;
     height: 100%;
 }
+.carousel-bio{
+    text-align: center;
+    padding: 5%;
+}
 .background-picture{
     height: 300px;
     background-image: url("../images/background3.jpg");
