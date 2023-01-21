@@ -79,7 +79,7 @@ p{
 }
 .music-header{
     text-align: center;
-    padding: 10%;
+    padding: 15%;
 }
 .iframe-container{
     position: relative;
@@ -141,7 +141,7 @@ p{
 }
 .compositions-header{
     text-align: center;
-    padding: 3%;
+    padding: 7%;
     padding-bottom: 0;
 }
 .right-text{
@@ -153,7 +153,7 @@ p{
     background-attachment: fixed;
     background-size: auto 180vh;
     text-align: center;
-    padding: 5%;
+    padding: 7%;
     margin: 0;
 }
 .contactTelephone{
