@@ -188,6 +188,9 @@ p{
     background-color: #393c3d;
     text-align: center;
 }
+.book-bio{
+    padding: 5%;
+}
 @media (max-width: 1024px) {
     .profile-picture{
         display: block;
