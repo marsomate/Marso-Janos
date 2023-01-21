@@ -164,9 +164,27 @@ p{
     width: 40%;
     margin: auto;
 }
+.first-container-book{
+    background-image: url("../images/background1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: auto 180vh;
+    padding: 5%;
+    padding-top: 8%;
+    margin: 0;
+}
 .book-picture{
-    width: 250px;
-
+    width: 350px;
+}
+.book-shop{
+    width: 40%;
+    margin: auto;
+    display: block;
+    padding: 4%;
+}
+.contact-book{
+    background-color: #393c3d;
+    text-align: center;
 }
 @media (max-width: 1024px) {
     .profile-picture{
