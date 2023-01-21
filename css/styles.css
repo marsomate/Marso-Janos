@@ -174,7 +174,9 @@ p{
     margin: 0;
 }
 .book-picture{
-    width: 350px;
+    text-align: center;
+    width: 100%;
+    margin: auto;
 }
 .book-shop{
     width: 40%;
@@ -201,5 +203,11 @@ p{
     }
     .contactMeText{
         width: 90%;
+    }
+    .book-picture{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
     }
 }
