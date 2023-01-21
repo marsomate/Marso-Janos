@@ -170,4 +170,7 @@ p{
         width: 300px;
         padding-left: 10%;
     }
+    .compositions-text{
+        text-align: center;
+    }
 }
