@@ -164,6 +164,10 @@ p{
     width: 40%;
     margin: auto;
 }
+.book-picture{
+    width: 250px;
+
+}
 @media (max-width: 1024px) {
     .profile-picture{
         padding:10%;
