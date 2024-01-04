@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://marsomate.github.io/Mars-J-nos-2.0/sitemap.xml
