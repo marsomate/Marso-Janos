@@ -33,7 +33,9 @@ SoundCloud: [Marsó János SoundCloud](https://soundcloud.com/marso-janos)
 
 ## Fontos linkek
 
-- [GitHub Repository](https://github.com/marsojanos/marsojanos.github.io)
+## Fontos linkek
+
+- [GitHub Repository](https://github.com/marsomate/Marso-Janos)
 
 ## Licenc
 
